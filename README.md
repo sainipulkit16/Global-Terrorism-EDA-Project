@@ -1,6 +1,6 @@
 # Global-Terrorism-EDA-Project
 
-Updated: 2025 – Project revisited and improved
+Updated:– Project revisited and improved
 
 # 📊 Global Terrorism Dataset – Exploratory Data Analysis
 

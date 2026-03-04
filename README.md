@@ -1,4 +1,4 @@
-# LGMVIP-DataScience-Task-02
+# Global-Terrorism-EDA-Project
 
 Updated: 2025 – Project revisited and improved
 
